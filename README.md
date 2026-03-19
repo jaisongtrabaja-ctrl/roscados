@@ -240,4 +240,4 @@ Mantén esta lista a mano en el taller.
 
 --------
 
-<img width="1204" height="1600" alt="image" src="https://github.com/user-attachments/assets/188520eb-cf2f-48af-bbd0-0d0bc8954671" />
+<img width="617" height="578" alt="image" src="https://github.com/user-attachments/assets/5f88fabf-9460-4ffb-91c3-d3ca92d19d23" />
