@@ -237,3 +237,4 @@ M24 x 3.0:  Df=20.31  F=3.0
 M30 x 3.5:  Df=25.43  F=3.5
 
 Mantén esta lista a mano en el taller.
+<img width="1204" height="1600" alt="image" src="https://github.com/user-attachments/assets/188520eb-cf2f-48af-bbd0-0d0bc8954671" />
